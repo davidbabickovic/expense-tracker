@@ -56,3 +56,22 @@ button {
     border-radius: 8px;
 }
 
+
+#edit-expense-form-div {
+    display: none;
+    position: fixed;
+    inset: 0;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(3px);
+
+
+
+}
+.edit-modal-content{
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
